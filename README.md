@@ -1,2 +1,1 @@
-# comingsoom
-pagina de comming soon
+Coming Soon Template
